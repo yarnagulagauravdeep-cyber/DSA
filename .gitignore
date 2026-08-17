@@ -1,0 +1,22 @@
+# Compiled Executables
+*.exe
+*.o
+*.out
+*.obj
+
+# IDEs and Editors
+.vscode/
+.idea/
+.vs/
+*.suo
+*.user
+*.userossc
+*.sln
+*.vcxproj
+*.filters
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
