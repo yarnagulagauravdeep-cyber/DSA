@@ -2,32 +2,6 @@
 
 Welcome to my Data Structures and Algorithms (DSA) practice repository! I upload my solutions to various DSA problems here every day to track my progress, improve my problem-solving skills, and build a consistent coding habit.
 
----
-
-## 📅 Daily Progress Tracker
-
-| Day | Topic | Problem | Solution Link | Difficulty | Platform |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Day 1 | Arrays | [Largest Element](file:///c:/DSA/Arrays/LargestElement.cpp) | [LargestElement.cpp](file:///c:/DSA/Arrays/LargestElement.cpp) | Easy | LeetCode / Coding Ninjas |
-| Day 2 | Arrays | [Second Largest Element](file:///c:/DSA/Arrays/SecondLargestElement.cpp) | [SecondLargestElement.cpp](file:///c:/DSA/Arrays/SecondLargestElement.cpp) | Easy | LeetCode / Coding Ninjas |
-| Day 3 | Arrays | [Check If Array Is Sorted](file:///c:/DSA/Arrays/IfSortedArray.cpp) | [IfSortedArray.cpp](file:///c:/DSA/Arrays/IfSortedArray.cpp) | Easy | LeetCode / Coding Ninjas |
-| Day 4 | Arrays | [Remove Duplicates from Sorted Array](file:///c:/DSA/Arrays/RemoveDuplicates.cpp) | [RemoveDuplicates.cpp](file:///c:/DSA/Arrays/RemoveDuplicates.cpp) | Easy | LeetCode |
-
-*Note: I will update this table daily as I solve and push new problems.*
-
----
-
-## 🗂️ Repository Structure
-
-The repository is organized by topics:
-
-- 📂 [Arrays](file:///c:/DSA/Arrays)
-  - 📄 [LargestElement.cpp](file:///c:/DSA/Arrays/LargestElement.cpp) - Find the largest element in an array.
-  - 📄 [SecondLargestElement.cpp](file:///c:/DSA/Arrays/SecondLargestElement.cpp) - Find the second largest element in an array without sorting.
-  - 📄 [IfSortedArray.cpp](file:///c:/DSA/Arrays/IfSortedArray.cpp) - Check if the array is sorted in non-decreasing order.
-  - 📄 [RemoveDuplicates.cpp](file:///c:/DSA/Arrays/RemoveDuplicates.cpp) - Remove duplicates in-place from a sorted array.
-
----
 
 ## 🛠️ How to Run locally
 
